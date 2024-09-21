@@ -1,1 +1,1 @@
-# 50-projects-on-HTML5-CSS-and-JS3
+# 50-projects-on-HTML5-CSS3-and-JS
